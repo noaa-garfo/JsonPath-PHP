@@ -1,5 +1,5 @@
 {
-    "name": "galbar/jsonpath",
+    "name": "garfo/jsonpath",
     "description": "JSONPath implementation for querying and updating JSON objects",
     "type": "library",
     "keywords": ["jsonpath", "json", "path"],
